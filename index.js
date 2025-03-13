@@ -73,3 +73,6 @@ const reviewsAnalysis = reviews.reduce((acc, { product, rating }, i, arr) => {
 }, {});
 
 console.log(reviewsAnalysis);
+console.log(reviewsAnalysis);
+
+//esafs
